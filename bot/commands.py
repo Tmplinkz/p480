@@ -11,7 +11,7 @@ class Command:
     )
     COMPRESS = get_config(
         "COMMAND_COMPRESS",
-        "compress"
+        "c480p"
     )
     CANCEL = get_config(
         "COMMAND_CANCEL",

@@ -155,7 +155,7 @@ if __name__ == "__main__" :
             await message.reply_text("Error")
             
         
-    @app.on_message(filters.incoming & filters.command(["c480p", f"compress@{BOT_USERNAME}"]))
+    @app.on_message(filters.incoming & filters.command(["compress", f"compress@{BOT_USERNAME}"]))
     async def help_message(app, message):
         if message.chat.id not in AUTH_USERS:
             return await message.reply_text("You are not authorised to use this bot contact @Dumb_luffy")

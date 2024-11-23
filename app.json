@@ -24,7 +24,7 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string. Get this from @BotFather",
-      "value": "6875977332:AAEBUAw-PjVsBMlPEFzGqksBg3MAIK4oeoM",
+      "value": "6963936469:AAH3balVDa8Om1uvvcWEo7nqkBWMSrOeLro",
       "required": true
     },
     "APP_ID": {
@@ -39,12 +39,12 @@
     },
     "BOT_USERNAME": {
       "description": "Your Bot Username. Without `@` before Username!",
-      "value": "Axucoder1_bot",
+      "value": "Robin480_bot",
       "required": true
     },
     "LOG_CHANNEL": {
       "description": "Your Bot's Log Channel's Username. For Help ask in @linux_repo",
-      "value": "encoderlog1",
+      "value": "encode_axu",
       "required": true
     },
     "AUTH_USERS": {
